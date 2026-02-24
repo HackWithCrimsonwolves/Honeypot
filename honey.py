@@ -49,3 +49,8 @@ if __name__ == "__main__":
             print("[!] You can only choose SSH (-s) (-ssh) or HTTP (-h) (-http) when running script.")
     except:
         print("\nProgram exited.")
+
+
+# Run this python3 honey.py -a 127.0.0.1 -p 2223 --ssh 
+# or this python3 honey.py -a 127.0.0.1 -p 2223 -u hi -pw hi --ssh
+# on vs code terminal after that only you can run the command on ubuntu terminal.

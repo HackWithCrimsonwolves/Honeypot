@@ -1,0 +1,11 @@
+
+127.0.0.1, username, qazhubkhbviusbdv 
+Command b'ls'executed by 127.0.0.1
+Command b'wmi\x7f\x7f\x7f\x7f\x7f\x7f'executed by 127.0.0.1
+Command b'pwd'executed by 127.0.0.1
+Command b'whomi\x7f\x7f\x7f'executed by 127.0.0.1
+Command b'whoami'executed by 127.0.0.1
+Command b'cat jumpbox1.conf'executed by 127.0.0.1
+127.0.0.1, username, pass
+127.0.0.1, username, pass
+Command b'ls'executed by 127.0.0.1

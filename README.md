@@ -1,6 +1,6 @@
 # Honeypot
 
-**Honeypot** is a Python-based honeypot system designed to simulate real-world attack surfaces and capture malicious activity.
+**Honeypot** is a Python-based honeypot system designed to simulate real-world attack surfaces and capture malicious activity. This allows monitoring, logging, and analyzing malicious behavior without risking real systems. 
 
 It includes:
 - SSH Honeypot (fake SSH server)

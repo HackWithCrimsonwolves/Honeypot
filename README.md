@@ -3,8 +3,8 @@
 **Honeypot** is a Python-based honeypot system designed to simulate real-world attack surfaces and capture malicious activity.
 
 It includes:
-SSH Honeypot (fake SSH server)
-Web Honeypot (fake WordPress login page)
+- SSH Honeypot (fake SSH server)
+- Web Honeypot (fake WordPress login page)
 
 # Features
 
@@ -18,9 +18,10 @@ Web Honeypot (fake WordPress login page)
 # Installation
 
 **1) Clone repository**
-`
+```
 https://github.com/HackWithCrimsonwolves/Honeypot.git
-`
+````
+
 **2) Create Virtual Environment**
 `
 python3 -m venv .venv

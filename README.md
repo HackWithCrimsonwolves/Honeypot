@@ -17,17 +17,26 @@ Web Honeypot (fake WordPress login page)
 
 # Installation
 
-**1) Clone repository.**
-`https://github.com/HackWithCrimsonwolves/Honeypot.git`
-
-**2) Create Virtual Environment.**
-```bash
+**1) Clone repository**
+`
+https://github.com/HackWithCrimsonwolves/Honeypot.git
+`
+**2) Create Virtual Environment**
+`
 python3 -m venv .venv
-```
-```
+`
+`
 source .venv/bin/activate
-```
-
+`
+**3) Install Dependencies**
+`
+pip install paramiko
+`
+`
+pip install paramiko
+`
+**4) Generate SSH Host Key**
 An RSA key must be generated for the SSH server host key. The SSH host key provides proper identification for the SSH server. Ensure the key is titled `server.key` and resides in the same relative directory to the main program.
-
-`ssh-keygen -t rsa -b 2048 -f server.key`
+`
+ssh-keygen -t rsa -b 2048 -f server.key
+`

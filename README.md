@@ -81,7 +81,7 @@ HONEYPOT has three loggers configured. Loggers will route to either `cmd_audits.
 
 `http_audit.log`: Captures IP address, username, password.
 
-# Honeypot Types
+# 📊 Honeypot Types
 This honeypot was written with modularity in mind to support future honeypot types (Telnet, HTTPS, SMTP, etc). As of right now there are two honeypot types supported.
 
 ## SSH
